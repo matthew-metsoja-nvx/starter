@@ -1,0 +1,1 @@
+<!-- this is the page that will display search results when a user searches for specific content.  -->

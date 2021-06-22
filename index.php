@@ -6,13 +6,10 @@
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  * @package sandbox
  */
-get_header();
+
 ?>
 
 </body>
 
-Hello there
-
-<?php get_footer();?>
 
 </html>

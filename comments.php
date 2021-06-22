@@ -1,0 +1,1 @@
+<!-- responsible for displaying comments. Might be easier to copy from starter2021 template or _s and add styles if we need these.  -->
