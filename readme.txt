@@ -1,5 +1,7 @@
 ======== STEP 1 =========
 
+DOne from work
+
 ** index.php **
 this page is required to create a WordPress theme and will serve as the fall back if a page that we are looking for is not available.
 
